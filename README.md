@@ -10,4 +10,5 @@ Examples for this checkpoint are in lib "Dialogs test"
 After downloading both chkpts you can try system:
 "python3 inf.py -c [config yaml] -e [path of embedder pt file] --checkpoint_path [path of chkpt pt file] -m [path of mixed wav file] -r [path of reference wav file] -o [output directory] "
 
-Train SDR![Снимок экрана от 2021-06-27 16-23-12](https://user-images.githubusercontent.com/68243701/123599088-6a10be00-d81f-11eb-89b0-5eea4bcb6e95.jpg)
+Train history:
+![Снимок экрана от 2021-06-27 16-23-12](https://user-images.githubusercontent.com/68243701/123599088-6a10be00-d81f-11eb-89b0-5eea4bcb6e95.jpg)
